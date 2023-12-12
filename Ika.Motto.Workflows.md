@@ -25,5 +25,7 @@ TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
 
 Last Situation :
 
-Waiting for the turn for binary counting operation.
+Decoder license is activated.
+
+Testing database and preparing prerequisite files
 # 
