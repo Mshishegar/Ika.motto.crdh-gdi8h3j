@@ -13,7 +13,7 @@ bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 
 Last Situation : 
 
-It is waiting for the review and approval of the real wallet by the general manager of the blockchain.
+The general manager is checking your certificates.
 # 
 # 
 2- Tether Wallets :
