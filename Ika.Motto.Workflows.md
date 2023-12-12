@@ -13,7 +13,10 @@ bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 
 Last Situation : 
 
-The general manager is checking your certificates.
+The certificates were approved by the General Manager.
+
+Calling for legal licenses to be reviewed by the Blockchain General Manager.
+
 # 
 # 
 2- Tether Wallets :
