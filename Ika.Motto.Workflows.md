@@ -13,9 +13,9 @@ bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 
 Last Situation : 
 
-The certificates were approved by the General Manager.
+Legal licenses were approved by the general manager of the blockchain.
 
-Calling for legal licenses to be reviewed by the Blockchain General Manager.
+The order to recall information about Mr. Ika Motto's residence was issued by the general manager.
 
 # 
 # 
