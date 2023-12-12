@@ -28,4 +28,6 @@ Last Situation :
 Decoder license is activated.
 
 Testing database and preparing prerequisite files
+
+Load Test Key : ik701××××××××%hdl
 # 
