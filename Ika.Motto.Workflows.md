@@ -17,6 +17,8 @@ Legal licenses were approved by the general manager of the blockchain.
 
 The order to recall information about Mr. Ika Motto's residence was issued by the general manager.
 
+* *Waiting for user to register new contract code*
+
 # 
 # 
 2- Tether Wallets :
