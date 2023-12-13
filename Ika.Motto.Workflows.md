@@ -28,6 +28,8 @@ TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
 
 Last Situation :
 
-Obtaining a guarantee certificate from the blockchain to be sent for counting processing by the Matrix Plus IBXBB robot
+According to the agreement with the specialized blockchain support, it was decided that a manager from the blockchain will supervise the counting operation by the robot.
+
+Waiting for the manager to be introduced by blockchain.
 
 # 
