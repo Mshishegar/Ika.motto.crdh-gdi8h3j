@@ -31,8 +31,10 @@ TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
 
 Last Situation :
 
-According to the agreement with the specialized blockchain support, it was decided that a manager from the blockchain will supervise the counting operation by the robot.
+The supervising manager was identified by blockchain.
 
-Waiting for the manager to be introduced by blockchain.
+The portal is being created for her by blockchain. 
+
+It is under construction.
 
 # 
