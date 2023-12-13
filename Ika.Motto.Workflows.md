@@ -28,9 +28,6 @@ TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
 
 Last Situation :
 
-Decoder license is activated.
+Obtaining a guarantee certificate from the blockchain to be sent for counting processing by the Matrix Plus IBXBB robot
 
-Testing database and preparing prerequisite files
-
-Load Test Key : ik701××××××××%hdl
 # 
