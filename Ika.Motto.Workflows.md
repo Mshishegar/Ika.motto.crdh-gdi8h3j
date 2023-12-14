@@ -13,12 +13,6 @@ bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 
 Last Situation : 
 
-Legal licenses were approved by the general manager of the blockchain.
-
-The order to recall information about Mr. Ika Motto's residence was issued by the general manager.
-
-* Your new contract information has been approved by the general manager.
-
 The general manager is loading and checking the SQL database
 
 # 
