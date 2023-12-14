@@ -17,8 +17,9 @@ Legal licenses were approved by the general manager of the blockchain.
 
 The order to recall information about Mr. Ika Motto's residence was issued by the general manager.
 
-* The new contract code was registered. Inquiring about the Digital Office Contract Center
-* South Africa - Johannesburg
+* Your new contract information has been approved by the general manager.
+
+The general manager is loading and checking the SQL database
 
 # 
 # 
