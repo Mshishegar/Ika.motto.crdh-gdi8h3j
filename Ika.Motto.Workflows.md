@@ -30,5 +30,6 @@ The supervising manager was identified by blockchain.
 
 * Ms. Anastasia McRoffman was elected as the supervisor.
 * Checking the file and how to process the robot by her
+* The process test package was executed by the supervisor.
 
 # 
