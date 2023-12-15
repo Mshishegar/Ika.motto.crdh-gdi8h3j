@@ -28,8 +28,7 @@ Last Situation :
 
 The supervising manager was identified by blockchain.
 
-The portal is being created for her by blockchain. 
-
-It is under construction.
+* Ms. Anastasia McRoffman was elected as the supervisor.
+* Checking the file and how to process the robot by her
 
 # 
