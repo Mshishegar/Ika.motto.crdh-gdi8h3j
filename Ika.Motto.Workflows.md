@@ -32,5 +32,7 @@ The supervising manager was identified by blockchain.
 * Checking the file and how to process the robot by her
 * The process test package was executed by the supervisor.
 * Testing decoding by cloud computing
+* Key exchange test
+* Count operation test
 
 # 
