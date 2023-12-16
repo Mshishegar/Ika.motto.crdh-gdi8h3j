@@ -14,7 +14,7 @@ bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 Last Situation : 
 
 The general manager is loading and checking the SQL database
-* Power sas btc certificate is required.
+* Power sas btc activated and running
 # 
 # 
 2- Tether Wallets :
