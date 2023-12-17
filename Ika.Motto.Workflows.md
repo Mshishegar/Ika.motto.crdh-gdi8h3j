@@ -35,5 +35,6 @@ The supervising manager was identified by blockchain.
 * Key exchange test
 * Count operation test
 * load prdx data
+* CHK
 
 # 
