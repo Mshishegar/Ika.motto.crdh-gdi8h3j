@@ -37,5 +37,6 @@ The supervising manager was identified by blockchain.
 * load prdx data
 * CHK
 * loading base 1
+* The first part of binary computing is running.
 
 # 
