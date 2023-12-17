@@ -39,5 +39,6 @@ The supervising manager was identified by blockchain.
 * loading base 1
 * The first part of binary computing is running.
 * The first base was completed and confirmed with the amount of 6500 Tether.
+* loading base 2
 
 # 
