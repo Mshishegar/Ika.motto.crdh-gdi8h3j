@@ -43,5 +43,7 @@ The supervising manager was identified by blockchain.
 * The first base was completed and confirmed with the amount of 6500 Tether.
 * loading base 2
 * The second part of binary computing is running.
-
+* The problems of the binary code counting robot were solved by the supervisor.
+* Creating a safe platform by the 
+supervisor
 # 
