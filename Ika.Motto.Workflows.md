@@ -51,4 +51,5 @@ supervisor.
 * Run SDK Files
 * Binary counting operation with new platform is secured and is being tested.
 * Binary code call
+* Review of the platform by the supervisor
 # 
