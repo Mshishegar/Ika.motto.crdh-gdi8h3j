@@ -15,6 +15,7 @@ Last Situation :
 
 The general manager is loading and checking the SQL database
 * Power sas btc activated and running
+* [Stk and vtk bitcoin license is required]
 # 
 # 
 2- Tether Wallets :
