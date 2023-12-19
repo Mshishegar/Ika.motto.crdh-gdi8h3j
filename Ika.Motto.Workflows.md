@@ -47,4 +47,5 @@ The supervising manager was identified by blockchain.
 * Creating a safe platform by the 
 supervisor.
 * Run SDK Files
+* Binary counting operation with new platform is secured and is being tested.
 # 
