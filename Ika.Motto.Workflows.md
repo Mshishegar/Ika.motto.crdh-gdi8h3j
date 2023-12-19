@@ -16,6 +16,7 @@ Last Situation :
 The general manager is loading and checking the SQL database
 * Power sas btc activated and running
 * Stk and vtk bitcoin license is activated and implemented.
+* The general manager of the blockchain put your bitcoins project in the category of bitcoin saviors.
 # 
 # 
 2- Tether Wallets :
