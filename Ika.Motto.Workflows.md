@@ -45,5 +45,6 @@ The supervising manager was identified by blockchain.
 * The second part of binary computing is running.
 * The problems of the binary code counting robot were solved by the supervisor.
 * Creating a safe platform by the 
-supervisor
+supervisor.
+* Run SDK Files
 # 
