@@ -50,4 +50,5 @@ The supervising manager was identified by blockchain.
 supervisor.
 * Run SDK Files
 * Binary counting operation with new platform is secured and is being tested.
+* Binary code call
 # 
