@@ -22,6 +22,7 @@ The general manager is loading and checking the SQL database
 * license code of Sonar Airmark device key is activated
 * The transfer license code ocp ui data loader has been activated
 * cycle IEEE BTC Core license has been activated
+* All your codings and policy writings and tabulation of coins and Python codings were approved by the IEEE International Center and its certificate was registered for you with the code 71037-27.
 # 
 # 
 2- Tether Wallets :
