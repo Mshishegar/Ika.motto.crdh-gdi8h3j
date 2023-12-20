@@ -58,5 +58,7 @@ supervisor.
 * The checkpoint was created by the administrator and the binary code is running.
 * Testing Gateway Robot
 * Receiving the robot port key
+* The key was exchanged.
+* Copying the sdk file to the robot
 # 
 
