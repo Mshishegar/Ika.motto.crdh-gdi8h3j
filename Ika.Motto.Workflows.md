@@ -53,4 +53,6 @@ supervisor.
 * Binary counting operation with new platform is secured and is being tested.
 * Binary code call
 * Review of the platform by the supervisor
+* The checkpoint was created by the administrator and the binary code is running.
+* Testing Gateway Robot
 # 
