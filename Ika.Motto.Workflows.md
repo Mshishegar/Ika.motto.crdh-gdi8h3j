@@ -19,6 +19,7 @@ The general manager is loading and checking the SQL database
 * The general manager of the blockchain put your bitcoins project in the category of bitcoin saviors.
 * The general manager was suspicious of the type of output of your bitcoins.
 * The review of coding and tabulation of your bitcoins along with farm information was done and confirmed by the general manager and no suspicious items were found.
+* license code of Sonar Airmark device key is activated 
 # 
 # 
 2- Tether Wallets :
