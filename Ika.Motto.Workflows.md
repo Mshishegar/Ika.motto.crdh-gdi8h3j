@@ -21,7 +21,7 @@ The general manager is loading and checking the SQL database
 * The review of coding and tabulation of your bitcoins along with farm information was done and confirmed by the general manager and no suspicious items were found.
 * license code of Sonar Airmark device key is activated
 * The transfer license code ocp ui data loader has been activated
-* cycle IEEE BTC Core license is required
+* cycle IEEE BTC Core license has been activated
 # 
 # 
 2- Tether Wallets :
