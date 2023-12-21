@@ -24,6 +24,7 @@ The general manager is loading and checking the SQL database
 * cycle IEEE BTC Core license has been activated
 * All your codings and policy writings and tabulation of coins and Python codings were approved by the IEEE International Center and its certificate was registered for you with the code 71037-27.
 * Load your DFS
+* The user was warned
 # 
 # 
 2- Tether Wallets :
