@@ -26,6 +26,7 @@ The general manager is loading and checking the SQL database
 * Load your DFS
 * The user was warned
 * General Manager has received your DFS access
+* Your DFS codes have been approved by the general manager of the blockchain.
 # 
 # 
 2- Tether Wallets :
