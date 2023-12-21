@@ -65,5 +65,6 @@ supervisor.
 * Receiving the robot port key
 * The key was exchanged.
 * Copying the sdk file to the robot
+* Load Robot Gateway
 # 
 
