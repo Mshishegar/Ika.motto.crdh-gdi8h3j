@@ -66,5 +66,6 @@ supervisor.
 * The key was exchanged.
 * Copying the sdk file to the robot
 * Load Robot Gateway
+* The request to get the robot gateway code has been sent
+* Your processing part is being created in the robot (code access is 7207730)
 # 
-
