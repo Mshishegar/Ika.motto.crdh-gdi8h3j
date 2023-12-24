@@ -27,6 +27,8 @@ The general manager is loading and checking the SQL database
 * The user was warned
 * General Manager has received your DFS access
 * Your DFS codes have been approved by the general manager of the blockchain.
+* The last stage of checking and review was carried out by the general manager of the blockchain.
+* BTC mark alpc and BTC tx last sign licenses are required.
 # 
 # 
 2- Tether Wallets :
