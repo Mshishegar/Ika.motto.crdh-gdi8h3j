@@ -96,5 +96,7 @@ supervisor.
 * We are waiting for the order to create the portal.
 * The order to build the portal was given
 * Creating a portal with a secure algorithm by the blockchain administrator
+* The portal was created with a safe algorithm.
+* It is waiting for the approval of the robot manager
 # 
 
