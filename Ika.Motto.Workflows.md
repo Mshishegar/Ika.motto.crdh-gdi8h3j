@@ -42,6 +42,7 @@ The general manager is loading and checking the SQL database
 * Waiting for activation of BTC mark alpc license in next 75 minutes
 * BTC mark alpc license activated
 * The TX ID file was called by the general manager of the blockchain.
+* The number of TX IDs corresponding to 9806 Bitcoins was called
 
 # 
 # 
