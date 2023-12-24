@@ -1,4 +1,4 @@
-![image](https://github.com/Mshishegar/Ika.motto.crdh-gdi8h3j/assets/143670267/fb67c7aa-d978-4d01-8439-34f6e19c3716)# Ika Motto Workflow
+# Ika Motto Workflow
 
 # 
 1- Bitcoin Wallets :
