@@ -17,6 +17,8 @@ main 4 : bc1qlfvnhy7y3x34ljj9y3j4fkqyv7aepx7367f48k
 
 main 5 : bc1qm5t4ngjas0e6n6e8wxmeewnpy29uzpkszyw7m0
 
+By order of the general manager, the verification was approved and your five wallets were placed in the final stage of the real wallet.
+
 Last Situation : 
 
 The general manager is loading and checking the SQL database
