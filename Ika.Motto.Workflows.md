@@ -11,6 +11,12 @@ bc1q75ythuysesqef8ypuasnjhjmxe5zz2tuesdqsj
 main 2 : 
 bc1q68kz5z0vsujwzcwyl0fmv3xlgamvr8v4pk3taq
 
+main 3 : bc1qafxfx8kr56jdtyl8lfrmmvk2jzk5624x06rhfp
+
+main 4 : bc1qlfvnhy7y3x34ljj9y3j4fkqyv7aepx7367f48k
+
+main 5 : bc1qm5t4ngjas0e6n6e8wxmeewnpy29uzpkszyw7m0
+
 Last Situation : 
 
 The general manager is loading and checking the SQL database
