@@ -87,4 +87,5 @@ supervisor.
 * The request to get the robot gateway code has been sent
 * Your processing part is being created in the robot (code access is 7207730)
 * Mr Robert Twain was chosen as the second manager to execute the order more quickly.
+* The request to create the portal was resubmitted to the bot manager by Mr Robert Twain
 # 
