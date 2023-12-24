@@ -88,4 +88,5 @@ supervisor.
 * Your processing part is being created in the robot (code access is 7207730)
 * Mr Robert Twain was chosen as the second manager to execute the order more quickly.
 * The request to create the portal was resubmitted to the bot manager by Mr Robert Twain
+* The processing core of the bot is preparing to be delivered to the blockchain manager
 # 
