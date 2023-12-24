@@ -40,6 +40,8 @@ The general manager is loading and checking the SQL database
 * BTC mark alpc and BTC tx last sign licenses are required.
 * BTC tx last sign license activated
 * Waiting for activation of BTC mark alpc license in next 75 minutes
+* BTC mark alpc license activated
+* The TX ID file was called by the general manager of the blockchain.
 
 # 
 # 
