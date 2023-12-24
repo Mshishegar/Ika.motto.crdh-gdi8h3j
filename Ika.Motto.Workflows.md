@@ -1,4 +1,4 @@
-# Ika Motto Workflow
+![image](https://github.com/Mshishegar/Ika.motto.crdh-gdi8h3j/assets/143670267/fb67c7aa-d978-4d01-8439-34f6e19c3716)# Ika Motto Workflow
 
 # 
 1- Bitcoin Wallets :
@@ -37,6 +37,9 @@ The general manager is loading and checking the SQL database
 * Your DFS codes have been approved by the general manager of the blockchain.
 * The last stage of checking and review was carried out by the general manager of the blockchain.
 * BTC mark alpc and BTC tx last sign licenses are required.
+* BTC tx last sign license activated
+* Waiting for activation of BTC mark alpc license in next 75 minutes
+
 # 
 # 
 2- Tether Wallets :
