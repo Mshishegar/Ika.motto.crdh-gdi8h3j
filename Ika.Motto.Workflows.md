@@ -90,4 +90,6 @@ supervisor.
 * The request to create the portal was resubmitted to the bot manager by Mr Robert Twain
 * The processing core of the bot is preparing to be delivered to the blockchain manager
 * A part with a small amount is ready to be sent for testing the counting operation.
+* The packet was prepared with the amount of 15,000 Tether currency.
+* We are exchanging information with the robot admin
 # 
