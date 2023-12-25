@@ -104,5 +104,7 @@ supervisor.
 * Administrator's order is required.
 * The portal for binary counting was approved by the robot manager and allowed access to the blockchain manager
 * The blockchain supervisor will perform file load and binary counting operations.
+* The counting operation is being prepared.
+* The executive director is Mr Robert Twain.
 # 
 
