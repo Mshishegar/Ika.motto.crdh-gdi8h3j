@@ -98,5 +98,7 @@ supervisor.
 * Creating a portal with a secure algorithm by the blockchain administrator
 * The portal was created with a safe algorithm.
 * It is waiting for the approval of the robot manager
+* The secure portal created has been approved by the bot administrator
+* Setting up the binary file for counting
 # 
 
