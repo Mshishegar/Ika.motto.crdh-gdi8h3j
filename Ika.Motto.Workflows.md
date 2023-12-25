@@ -100,5 +100,7 @@ supervisor.
 * It is waiting for the approval of the robot manager
 * The secure portal created has been approved by the bot administrator
 * Setting up the binary file for counting
+* The portal is ready to perform binary counting operations.
+* Administrator's order is required.
 # 
 
