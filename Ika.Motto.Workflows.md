@@ -107,5 +107,8 @@ supervisor.
 * The counting operation is being prepared.
 * The executive director is Mr Robert Twain.
 * Binary counting operation was performed with ticket number 9011117201637A0H.
+* The operation of counting the binary code has been completed.
+* The log of the performed operation was sent to the blockchain management specialized unit to review and announce the result.
+* If the portal is approved, the binary codes will be counted and recorded.
 # 
 
