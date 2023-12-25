@@ -102,5 +102,7 @@ supervisor.
 * Setting up the binary file for counting
 * The portal is ready to perform binary counting operations.
 * Administrator's order is required.
+* The portal for binary counting was approved by the robot manager and allowed access to the blockchain manager
+* The blockchain supervisor will perform file load and binary counting operations.
 # 
 
