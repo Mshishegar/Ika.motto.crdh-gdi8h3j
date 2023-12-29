@@ -44,7 +44,8 @@ The general manager is loading and checking the SQL database
 * The TX ID file was called by the general manager of the blockchain.
 * The number of TX IDs corresponding to 9806 Bitcoins was called
 * Tx IDs are being reviewed by the General Manager
-* ISA Bitcoin license is required
+* ISA Bitcoin license is required.
+* ISA Bitcoin license is activated.
 
 # 
 # 
