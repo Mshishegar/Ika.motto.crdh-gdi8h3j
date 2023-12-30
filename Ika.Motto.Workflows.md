@@ -46,6 +46,9 @@ The general manager is loading and checking the SQL database
 * Tx IDs are being reviewed by the General Manager
 * ISA Bitcoin license is required.
 * ISA Bitcoin license is activated.
+* IDs related to bitcoins were called.
+* The order was given to merge and check TX IDs and commercial IDs.
+* Merge operation is running.
 
 # 
 # 
