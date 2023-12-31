@@ -49,6 +49,7 @@ The general manager is loading and checking the SQL database
 * IDs related to bitcoins were called.
 * The order was given to merge and check TX IDs and commercial IDs.
 * Merge operation is running.
+* P.T.I.C.P license is activated.
 
 # 
 # 
