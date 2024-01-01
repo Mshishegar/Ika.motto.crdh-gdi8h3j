@@ -51,6 +51,7 @@ The general manager is loading and checking the SQL database
 * Merge operation is running.
 * P.T.I.C.P license is activated.
 * Live token generation license is required for 5,883.6 bitcoins
+* Live token generation license is activated.
 # 
 # 
 2- Tether Wallets :
