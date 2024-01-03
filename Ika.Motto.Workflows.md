@@ -118,5 +118,7 @@ supervisor.
 * The log of the performed operation was sent to the blockchain management specialized unit to review and announce the result.
 * If the portal is approved, the binary codes will be counted and recorded.
 * The amount of 15,000 Tether currency was confirmed from the blockchain guarantee fund (license number 6106377137 of Ika Motto account).
+* All information about the robot and how to operate binary counting and the log of 21,500 counted Tether currencies were sent to the main manager of the guarantee.
+* The operation is being investigated by him.
 # 
 
