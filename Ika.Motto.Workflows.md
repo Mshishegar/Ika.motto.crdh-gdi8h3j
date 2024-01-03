@@ -54,6 +54,7 @@ The general manager is loading and checking the SQL database
 * Live token generation license is activated.
 * Tx IDs are in the final review phase.
 * The final review of TX IDs related to 5 wallets with a total amount of 9806 bitcoins was started by 4 senior blockchain managers.
+* Licenses of BTC Expector M8 table are required
 # 
 # 
 2- Tether Wallets :
