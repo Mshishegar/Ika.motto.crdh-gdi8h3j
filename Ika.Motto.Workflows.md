@@ -56,6 +56,7 @@ The general manager is loading and checking the SQL database
 * The final review of TX IDs related to 5 wallets with a total amount of 9806 bitcoins was started by 4 senior blockchain managers.
 * Licenses of BTC Expector M8 table are required.
 * Licenses of BTC Expector M8 table is activated.
+* The MPMic code file has been generated and sent.
 # 
 # 
 2- Tether Wallets :
