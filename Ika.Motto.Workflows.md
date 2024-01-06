@@ -126,5 +126,8 @@ supervisor.
 * The amount of 15,000 Tether currency was confirmed from the blockchain guarantee fund (license number 6106377137 of Ika Motto account).
 * All information about the robot and how to operate binary counting and the log of 21,500 counted Tether currencies were sent to the main manager of the guarantee.
 * The operation is being investigated by him.
+* The new converter algorithm was designed by the warranty team.
+* The new SDK file was installed and activated on the robot.
+* The new algorithm is being tested.
 # 
 
