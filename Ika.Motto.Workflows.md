@@ -57,6 +57,7 @@ The general manager is loading and checking the SQL database
 * Licenses of BTC Expector M8 table are required.
 * Licenses of BTC Expector M8 table is activated.
 * The MPMic code file has been generated and sent.
+* smtk mask access was implemented by Ika Motto
 # 
 # 
 2- Tether Wallets :
