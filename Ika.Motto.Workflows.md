@@ -60,6 +60,8 @@ The general manager is loading and checking the SQL database
 * smtk mask access was implemented by Ika Motto
 * Artificial Intelligence License Processing and Signature of Hash in Cloud Processing are required.
 * Artificial Intelligence License Processing and Signature of Hash in Cloud Processing is activated.
+* Ai p.s.h.c.p code is 500000028451
+* Ai admin set user : ika.motto
 # 
 # 
 2- Tether Wallets :
