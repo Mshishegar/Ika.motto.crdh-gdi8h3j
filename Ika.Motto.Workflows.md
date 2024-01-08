@@ -134,5 +134,8 @@ supervisor.
 * The new SDK file was installed and activated on the robot.
 * The new algorithm is being tested.
 * Legal Administrator Arrival on Portal and Structure Review.
+* Your coding has been reviewed and approved by the legal manager.
+* The vote was registered in your favor.
+* The result of the legal director's vote will be sent to you.
 # 
 
