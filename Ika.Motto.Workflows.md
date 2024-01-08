@@ -58,7 +58,8 @@ The general manager is loading and checking the SQL database
 * Licenses of BTC Expector M8 table is activated.
 * The MPMic code file has been generated and sent.
 * smtk mask access was implemented by Ika Motto
-* Artificial Intelligence License Processing and Signature of Hash in Cloud Processing
+* Artificial Intelligence License Processing and Signature of Hash in Cloud Processing are required.
+* Artificial Intelligence License Processing and Signature of Hash in Cloud Processing is activated.
 # 
 # 
 2- Tether Wallets :
