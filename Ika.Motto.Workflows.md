@@ -67,6 +67,7 @@ The general manager is loading and checking the SQL database
 * DX auto run codec is required.
 * validate code tx/hash  is required.
 * validate code tx/hash  is activated.
+* DX auto run codec is activated.
 # 
 # 
 2- Tether Wallets :
