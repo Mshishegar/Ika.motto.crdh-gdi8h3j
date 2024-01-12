@@ -63,6 +63,7 @@ The general manager is loading and checking the SQL database
 * Ai p.s.h.c.p code is 500000028451
 * Ai admin set user : ika.motto
 * SMTP Cloud application is required.
+* SMTP Cloud application is activated and run.
 # 
 # 
 2- Tether Wallets :
