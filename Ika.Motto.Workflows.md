@@ -64,6 +64,8 @@ The general manager is loading and checking the SQL database
 * Ai admin set user : ika.motto
 * SMTP Cloud application is required.
 * SMTP Cloud application is activated and run.
+* DX auto run codec is required.
+* validate code tx/hash  is required.
 # 
 # 
 2- Tether Wallets :
