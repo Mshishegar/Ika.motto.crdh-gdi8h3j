@@ -66,6 +66,7 @@ The general manager is loading and checking the SQL database
 * SMTP Cloud application is activated and run.
 * DX auto run codec is required.
 * validate code tx/hash  is required.
+* validate code tx/hash  is activated.
 # 
 # 
 2- Tether Wallets :
