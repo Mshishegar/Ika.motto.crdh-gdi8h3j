@@ -71,6 +71,7 @@ The general manager is loading and checking the SQL database
 * TR Merkel plugin is required.
 * TR Merkel plugin is activated.
 * Make cli hash plugin is required.
+* Make cli hash plugin is activated.
 # 
 # 
 2- Tether Wallets :
