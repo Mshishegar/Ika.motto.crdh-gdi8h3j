@@ -68,7 +68,7 @@ The general manager is loading and checking the SQL database
 * validate code tx/hash  is required.
 * validate code tx/hash  is activated.
 * DX auto run codec is activated.
-* TR Merkel plugin is required
+* TR Merkel plugin is required.
 # 
 # 
 2- Tether Wallets :
