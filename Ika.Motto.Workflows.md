@@ -143,5 +143,6 @@ supervisor.
 * Your coding has been reviewed and approved by the legal manager.
 * The vote was registered in your favor.
 * The result of the legal director's vote will be sent to you.
+* Restoring the previous SDK on the robot
 # 
 
