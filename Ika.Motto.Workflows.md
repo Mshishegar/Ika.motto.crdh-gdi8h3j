@@ -78,6 +78,7 @@ The general manager is loading and checking the SQL database
 * Key plug BTC License is required.
 * Key plug BTC License is activated.
 * BTC Approval code License is activated.
+* Load sspfs by manager.
 # 
 # 
 2- Tether Wallets :
