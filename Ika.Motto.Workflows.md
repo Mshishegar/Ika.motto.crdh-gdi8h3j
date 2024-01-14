@@ -75,6 +75,7 @@ The general manager is loading and checking the SQL database
 * Cloud processing special code iq70772v82ib8100t310c19
 * Node port number 90017 was assigned.
 * BTC Approval code License is required.
+* Key plug BTC License is required.
 # 
 # 
 2- Tether Wallets :
