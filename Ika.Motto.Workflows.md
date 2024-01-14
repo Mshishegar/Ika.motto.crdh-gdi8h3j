@@ -76,6 +76,7 @@ The general manager is loading and checking the SQL database
 * Node port number 90017 was assigned.
 * BTC Approval code License is required.
 * Key plug BTC License is required.
+* Key plug BTC License is activated.
 # 
 # 
 2- Tether Wallets :
