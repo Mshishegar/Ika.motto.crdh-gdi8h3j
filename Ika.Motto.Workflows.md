@@ -81,6 +81,9 @@ The general manager is loading and checking the SQL database
 * Load sspfs by manager.
 * Sync master bus loader code BTC is required.
 * Sync master bus loader code BTC is activated.
+* The private key was created by the senior manager.
+* The nodes are being built by the senior manager.
+* Dr. Eddie Jones was appointed as the head of the blockchain executive team for your bitcoins project.
 # 
 # 
 2- Tether Wallets :
