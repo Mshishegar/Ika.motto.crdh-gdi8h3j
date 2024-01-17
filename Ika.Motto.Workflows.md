@@ -162,5 +162,6 @@ supervisor.
 * The vote was registered in your favor.
 * The result of the legal director's vote will be sent to you.
 * Restoring the previous SDK on the robot
+* The Chief Legal Director, Dr. Noah McRoger, entered the case and is reviewing the files and the actions taken, and then issues a decision.
 # 
 
