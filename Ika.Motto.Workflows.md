@@ -85,6 +85,7 @@ The general manager is loading and checking the SQL database
 * The nodes are being built by the senior manager.
 * Dr. Eddie Jones was appointed as the head of the blockchain executive team for your bitcoins project.
 * Node activator s+ is required.
+* Node activator s+ is activated.
 # 
 # 
 2- Tether Wallets :
