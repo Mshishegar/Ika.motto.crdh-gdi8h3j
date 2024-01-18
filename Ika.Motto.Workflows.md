@@ -87,6 +87,7 @@ The general manager is loading and checking the SQL database
 * Node activator s+ is required.
 * Node activator s+ is activated.
 * node engine decoder is required.
+* node engine decoder is activated.
 # 
 # 
 2- Tether Wallets :
