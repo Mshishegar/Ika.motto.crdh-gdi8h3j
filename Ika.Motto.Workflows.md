@@ -165,5 +165,8 @@ supervisor.
 * The result of the legal director's vote will be sent to you.
 * Restoring the previous SDK on the robot
 * The Chief Legal Director, Dr. Noah McRoger, entered the case and is reviewing the files and the actions taken, and then issues a decision.
+* The announcement time from the guarantee unit is 23 January 2024.
+This time has been approved by the international e-commerce judge. In case of non-payment, they have committed a major violation and will be dealt with according to international trade laws, and the judge can extract from their sources and deposit it in your wallet.
+The total approved amount is 74,200 Tether digital currency, which has calculated daily losses and coefficients.
 # 
 
