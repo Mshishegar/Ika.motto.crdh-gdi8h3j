@@ -88,6 +88,7 @@ The general manager is loading and checking the SQL database
 * Node activator s+ is activated.
 * node engine decoder is required.
 * node engine decoder is activated.
+* The review of 5 bitcoin wallets has been completed.
 # 
 # 
 2- Tether Wallets :
