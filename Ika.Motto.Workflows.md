@@ -92,6 +92,7 @@ The general manager is loading and checking the SQL database
 * Your amount of 9806 bitcoins has been confirmed.
 * The real wallet order was registered and final.
 * 1308 nodes were requested.
+* Dedicated nodes are ready to setup.
 # 
 # 
 2- Tether Wallets :
