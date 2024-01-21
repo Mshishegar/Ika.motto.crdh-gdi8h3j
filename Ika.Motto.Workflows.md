@@ -91,6 +91,7 @@ The general manager is loading and checking the SQL database
 * The review of 5 bitcoin wallets has been completed.
 * Your amount of 9806 bitcoins has been confirmed.
 * The real wallet order was registered and final.
+* 1308 nodes were requested.
 # 
 # 
 2- Tether Wallets :
