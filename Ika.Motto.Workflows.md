@@ -95,6 +95,8 @@ The general manager is loading and checking the SQL database
 * Dedicated nodes are ready to setup.
 * The cost of a dedicated processor server for the nodes required to run and output bitcoins is $5,400.
 * The output operation of bitcoins is completed and it is waiting for the access of the dedicated processor server to run the nodes. Please proceed immediately to pay for the dedicated server.
+* Your bitcoin project is completed.
+* The private server was delivered to the general manager to setup your bitcoin nodes.
 # 
 # 
 2- Tether Wallets :
