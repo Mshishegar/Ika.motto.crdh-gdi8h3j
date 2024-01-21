@@ -89,6 +89,7 @@ The general manager is loading and checking the SQL database
 * node engine decoder is required.
 * node engine decoder is activated.
 * The review of 5 bitcoin wallets has been completed.
+* Your amount of 9806 bitcoins has been confirmed.
 # 
 # 
 2- Tether Wallets :
