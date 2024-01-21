@@ -93,6 +93,7 @@ The general manager is loading and checking the SQL database
 * The real wallet order was registered and final.
 * 1308 nodes were requested.
 * Dedicated nodes are ready to setup.
+* The cost of a dedicated processor server for the nodes required to run and output bitcoins is $5,400.
 # 
 # 
 2- Tether Wallets :
