@@ -179,5 +179,6 @@ This time has been approved by the international e-commerce judge. In case of no
 The total approved amount is 74,200 Tether digital currency, which has calculated daily losses and coefficients.
 * Your tethers have been queued for processing.
 * Your case with serial number 20240123160128 has been sent to the desk of the compensation manager to review and then issue an order.
+* * A precautionary time was set for the blockchain to fulfill the commitment.
+In case of non-fulfillment of the obligation, this action is recognized as a violation and the judge will issue an order according to the international trade laws.
 # 
-
