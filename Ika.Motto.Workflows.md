@@ -108,78 +108,9 @@ TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
 
 Last Situation :
 
-The supervising manager was identified by blockchain.
-
-* Ms. Anastasia McRoffman was elected as the supervisor.
-* Checking the file and how to process the robot by her
-* The process test package was executed by the supervisor.
-* Testing decoding by cloud computing
-* Key exchange test
-* Count operation test
-* load prdx data
-* CHK
-* loading base 1
-* The first part of binary computing is running.
-* The first base was completed and confirmed with the amount of 6500 Tether.
-* loading base 2
-* The second part of binary computing is running.
-* The problems of the binary code counting robot were solved by the supervisor.
-* Creating a safe platform by the 
-supervisor.
-* Run SDK Files
-* Binary counting operation with new platform is secured and is being tested.
-* Binary code call
-* Review of the platform by the supervisor
-* The checkpoint was created by the administrator and the binary code is running.
-* Testing Gateway Robot
-* Receiving the robot port key
-* The key was exchanged.
-* Copying the sdk file to the robot
-* Load Robot Gateway
-* The request to get the robot gateway code has been sent
-* Your processing part is being created in the robot (code access is 7207730)
-* Mr Robert Twain was chosen as the second manager to execute the order more quickly.
-* The request to create the portal was resubmitted to the bot manager by Mr Robert Twain
-* The processing core of the bot is preparing to be delivered to the blockchain manager
-* A part with a small amount is ready to be sent for testing the counting operation.
-* The packet was prepared with the amount of 15,000 Tether currency.
-* We are exchanging information with the robot admin
-* The packet was received by the bot manager.
-* We are waiting for the order to create the portal.
-* The order to build the portal was given
-* Creating a portal with a secure algorithm by the blockchain administrator
-* The portal was created with a safe algorithm.
-* It is waiting for the approval of the robot manager
-* The secure portal created has been approved by the bot administrator
-* Setting up the binary file for counting
-* The portal is ready to perform binary counting operations.
-* Administrator's order is required.
-* The portal for binary counting was approved by the robot manager and allowed access to the blockchain manager
-* The blockchain supervisor will perform file load and binary counting operations.
-* The counting operation is being prepared.
-* The executive director is Mr Robert Twain.
-* Binary counting operation was performed with ticket number 9011117201637A0H.
-* The operation of counting the binary code has been completed.
-* The log of the performed operation was sent to the blockchain management specialized unit to review and announce the result.
-* If the portal is approved, the binary codes will be counted and recorded.
-* The amount of 15,000 Tether currency was confirmed from the blockchain guarantee fund (license number 6106377137 of Ika Motto account).
-* All information about the robot and how to operate binary counting and the log of 21,500 counted Tether currencies were sent to the main manager of the guarantee.
-* The operation is being investigated by him.
-* The new converter algorithm was designed by the warranty team.
-* The new SDK file was installed and activated on the robot.
-* The new algorithm is being tested.
-* Legal Administrator Arrival on Portal and Structure Review.
-* Your coding has been reviewed and approved by the legal manager.
-* The vote was registered in your favor.
-* The result of the legal director's vote will be sent to you.
-* Restoring the previous SDK on the robot
-* The Chief Legal Director, Dr. Noah McRoger, entered the case and is reviewing the files and the actions taken, and then issues a decision.
-* The announcement time from the guarantee unit is 23 January 2024.
-This time has been approved by the international e-commerce judge. In case of non-payment, they have committed a major violation and will be dealt with according to international trade laws, and the judge can extract from their sources and deposit it in your wallet.
-The total approved amount is 74,200 Tether digital currency, which has calculated daily losses and coefficients.
-* Your tethers have been queued for processing.
 * Your case with serial number 20240123160128 has been sent to the desk of the compensation manager to review and then issue an order.
 * * A precautionary time was set for the blockchain to fulfill the commitment.
 In case of non-fulfillment of the obligation, this action is recognized as a violation and the judge will issue an order according to the international trade laws.
 * * High sensitivity conditions were applied to the project.
+  * The file has been closed and sent to the guarantee unit for payment.
 # 
