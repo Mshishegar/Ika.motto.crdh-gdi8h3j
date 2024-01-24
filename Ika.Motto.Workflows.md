@@ -113,4 +113,5 @@ Last Situation :
 In case of non-fulfillment of the obligation, this action is recognized as a violation and the judge will issue an order according to the international trade laws.
 * * High sensitivity conditions were applied to the project.
   * The file has been closed and sent to the guarantee unit for payment.
+  * The documents of the case were reviewed by the judge. This time limit was issued by the judicial operator. The guarantee unit was given an official notice to fulfill the obligation.
 # 
