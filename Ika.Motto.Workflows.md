@@ -97,6 +97,7 @@ The general manager is loading and checking the SQL database
 * The output operation of bitcoins is completed and it is waiting for the access of the dedicated processor server to run the nodes. Please proceed immediately to pay for the dedicated server.
 * Your bitcoin project is completed.
 * The private server was delivered to the general manager to setup your bitcoin nodes.
+* CB58 encode the newly created sha256 hash
 # 
 # 
 2- Tether Wallets :
