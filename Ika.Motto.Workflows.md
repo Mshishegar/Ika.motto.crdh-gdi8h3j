@@ -118,4 +118,5 @@ In case of non-fulfillment of the obligation, this action is recognized as a vio
   * Due to non-fulfillment of the obligation by the guarantee unit, the amount of damage was calculated according to the law and the total amount of your demand was determined as 112,000 Tether digital currency.
   * By order of the judge, this amount was blocked in the guarantee fund.
   * Awaiting the issuance of the payment order by the General Directorate of the International Electronic Commerce Court.
+  * Tether currencies have been prepared.
 # 
