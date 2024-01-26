@@ -116,4 +116,5 @@ In case of non-fulfillment of the obligation, this action is recognized as a vio
   * The file has been closed and sent to the guarantee unit for payment.
   * The documents of the case were reviewed by the judge. This time limit was issued by the judicial operator. The guarantee unit was given an official notice to fulfill the obligation.
   * Due to non-fulfillment of the obligation by the guarantee unit, the amount of damage was calculated according to the law and the total amount of your demand was determined as 112,000 Tether digital currency.
+  * By order of the judge, this amount was blocked in the guarantee fund.
 # 
