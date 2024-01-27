@@ -120,4 +120,5 @@ In case of non-fulfillment of the obligation, this action is recognized as a vio
   * Awaiting the issuance of the payment order by the General Directorate of the International Electronic Commerce Court.
   * Tether currencies have been prepared.
   * Additional information on the actions taken was sent to the Director General of the General Department of the International Electronic Commerce Court to obtain a payment order.
+  * The request letter for expediting the issuance of the payment order was re-sent to the Director General of the General Department of the International Electronic Commerce Court.
 # 
