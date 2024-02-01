@@ -121,4 +121,5 @@ In case of non-fulfillment of the obligation, this action is recognized as a vio
   * Tether currencies have been prepared.
   * Additional information on the actions taken was sent to the Director General of the General Department of the International Electronic Commerce Court to obtain a payment order.
   * The request letter for expediting the issuance of the payment order was re-sent to the Director General of the General Department of the International Electronic Commerce Court.
+  * The official letter requesting to obtain an order with the legal number 202471034102 was sent to the Director General of the General Department of the International Electronic Commerce Court. Waiting for the order to be issued, please be patient.
 # 
