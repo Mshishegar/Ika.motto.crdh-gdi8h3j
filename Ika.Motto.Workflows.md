@@ -24,6 +24,13 @@ Last Situation :
 
 Your bitcoins have been completed.
 
+* Please pay for legal licenses in Germany in the field of:
+* * Partnering license
+  * Joint ventures license
+  * Permission to pledge not to provide financial resources to militant groups (the new law approved by the World Security Council in 2024)
+
+Make a total of $7,400 worth within the next 120 minutes.
+
 # 
 # 
 2- Tether Wallets :
