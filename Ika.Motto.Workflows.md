@@ -29,7 +29,7 @@ Your bitcoins have been completed.
   * Joint ventures license
   * Permission to pledge not to provide financial resources to militant groups (the new law approved by the World Security Council in 2024)
 
-In the next 120 minutes, you have to pay a total of 7400 dollars for these licenses.
+The cost of obtaining licenses in the amount of $7,400 was successfully paid in 19 stages and sent to the competent authorities to issue the license.
 
 # 
 # 
