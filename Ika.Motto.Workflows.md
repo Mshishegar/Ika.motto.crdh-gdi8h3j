@@ -29,7 +29,7 @@ Your bitcoins have been completed.
   * Joint ventures license
   * Permission to pledge not to provide financial resources to militant groups (the new law approved by the World Security Council in 2024)
 
-Make a total of $7,400 worth within the next 120 minutes.
+In the next 120 minutes, you have to pay a total of 7400 dollars for these licenses.
 
 # 
 # 
