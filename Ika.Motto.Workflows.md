@@ -30,7 +30,9 @@ Your bitcoins have been completed.
   * Permission to pledge not to provide financial resources to militant groups (the new law approved by the World Security Council in 2024)
 
 The cost of obtaining licenses in the amount of $7,400 was successfully paid in 19 stages and sent to the competent authorities to issue the license.
-
+* Partnering License with Federal Registration Code DE2024020580116251F/Ik
+  , It was issued by the German Federal Council.
+  
 # 
 # 
 2- Tether Wallets :
