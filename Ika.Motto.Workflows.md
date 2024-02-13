@@ -32,6 +32,7 @@ Your bitcoins have been completed.
 The cost of obtaining licenses in the amount of $7,400 was successfully paid in 19 stages and sent to the competent authorities to issue the license.
 * Partnering License with Federal Registration Code DE2024020580116251F/Ik
   , It was issued by the German Federal Council.
+* Joint ventures license was registered and granted to you by the Federal Government of Germany with activity license code 202416702718999102.
   
 # 
 # 
