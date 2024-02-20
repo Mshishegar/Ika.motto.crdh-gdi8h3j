@@ -34,6 +34,11 @@ The cost of obtaining licenses in the amount of $7,400 was successfully paid in 
   , It was issued by the German Federal Council.
 * Joint ventures license was registered and granted to you by the Federal Government of Germany with activity license code 202416702718999102.
   
+ Your file has been sent to the World Trade Security Organization to obtain the Permission to pledge not to provide financial resources to militant groups.
+
+ * * Pay $640 to create a global contract and commitment category and receive an international safe trade code along with the supervision of a security supervisor.
+ 
+ 
 # 
 # 
 2- Tether Wallets :
