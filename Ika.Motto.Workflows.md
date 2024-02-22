@@ -37,6 +37,7 @@ The cost of obtaining licenses in the amount of $7,400 was successfully paid in 
  Your file has been sent to the World Trade Security Organization to obtain the Permission to pledge not to provide financial resources to militant groups.
 
  * * Pay $640 to create a global contract and commitment category and receive an international safe trade code along with the supervision of a security supervisor.
+   * Pay 200 dollars to create and register a business card.
  
  
 # 
