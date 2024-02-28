@@ -38,6 +38,10 @@ The cost of obtaining licenses in the amount of $7,400 was successfully paid in 
 
  * * Pay $640 to create a global contract and commitment category and receive an international safe trade code along with the supervision of a security supervisor.
    * Pay 200 dollars to create and register a business card.
+   * Mr Ika Motto
+The operation of obtaining an identity inquiry from the Information Organization of the countries is being implemented.
+According to the order of the Directorate of Political Identity Recognition of United Nations, to receive inquiries from non-European countries and America, please pay the amount of 4300 dollars immediately to cover the cost of the relevant inquiry.
+Otherwise, according to the order of the head of the United Nations Political Identity Department, your case will not be followed up and will be deducted from the follow-up unit.
  
  
 # 
