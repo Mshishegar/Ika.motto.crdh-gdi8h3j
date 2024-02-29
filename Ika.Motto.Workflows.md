@@ -42,6 +42,11 @@ The cost of obtaining licenses in the amount of $7,400 was successfully paid in 
 The operation of obtaining an identity inquiry from the Information Organization of the countries is being implemented.
 According to the order of the Directorate of Political Identity Recognition of United Nations, to receive inquiries from non-European countries and America, please pay the amount of 4300 dollars immediately to cover the cost of the relevant inquiry.
 Otherwise, according to the order of the head of the United Nations Political Identity Department, your case will not be followed up and will be deducted from the follow-up unit.
+#
+* * The answer to your identity inquiry in Europe and the United States of America has been successfully registered and sent without any bad history.
+  * Please rewrite the new policy codes according to the order of code 20719222 that was sent to your folder.
+  * A request to track your information identity in countries other than America and Europe has been sent.
+
  
  
 # 
