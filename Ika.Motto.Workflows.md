@@ -46,6 +46,7 @@ Otherwise, according to the order of the head of the United Nations Political Id
 * * The answer to your identity inquiry in Europe and the United States of America has been successfully registered and sent without any bad history.
   * Please rewrite the new policy codes according to the order of code 20719222 that was sent to your folder.
   * A request to track your information identity in countries other than America and Europe has been sent.
+  * The programming operation of policy update was started by the expert developer.
 
  
  
