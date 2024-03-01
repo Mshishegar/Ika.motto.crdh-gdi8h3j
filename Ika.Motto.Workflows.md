@@ -47,6 +47,8 @@ Otherwise, according to the order of the head of the United Nations Political Id
   * Please rewrite the new policy codes according to the order of code 20719222 that was sent to your folder.
   * A request to track your information identity in countries other than America and Europe has been sent.
   * The programming operation of policy update was started by the expert developer.
+  * The coding operation according to the algorithm regarding the policy update was done successfully.
+  * The policy update code for your 5 wallets is BLBTC7001C8Y111627.
 
  
  
