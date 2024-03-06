@@ -49,6 +49,7 @@ Otherwise, according to the order of the head of the United Nations Political Id
   * The programming operation of policy update was started by the expert developer.
   * The coding operation according to the algorithm regarding the policy update was done successfully.
   * The policy update code for your 5 wallets is BLBTC7001C8Y111627.
+  * Pay 300 dollars through the portal to activate the international switch rpm token.
 
  
  
