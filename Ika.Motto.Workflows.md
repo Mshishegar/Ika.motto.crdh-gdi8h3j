@@ -50,6 +50,10 @@ Otherwise, according to the order of the head of the United Nations Political Id
   * The coding operation according to the algorithm regarding the policy update was done successfully.
   * The policy update code for your 5 wallets is BLBTC7001C8Y111627.
   * Pay 300 dollars through the portal to activate the international switch rpm token.
+  * According to the law of South Africa, citizens who need to obtain a government certificate for business must pay an amount as a guarantee for the amount of the transaction.
+According to the government law, the amount determined for you is 5000 dollars.
+As a trustee, we keep this amount in the international blockchain fund and after monitoring the trades done by you, it will be returned to you if there is no problem.
+Please pay this amount immediately.
 
  
  
