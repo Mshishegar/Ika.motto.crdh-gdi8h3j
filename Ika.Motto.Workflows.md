@@ -57,6 +57,7 @@ Please pay this amount immediately.
 * Your deposit payment has been completed and notified to the office of the political organization of the South African government.
 * According to the order of the global e-commerce unit, please take immediate action to obtain the IFS certificate.
 The cost of obtaining an IFS commercial certificate is $970.
+* International IFS certificate with serial number 1000000819925106 was successfully registered and activated.
 
  
  
