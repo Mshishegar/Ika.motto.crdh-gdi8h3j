@@ -55,6 +55,8 @@ According to the government law, the amount determined for you is 5000 dollars.
 As a trustee, we keep this amount in the international blockchain fund and after monitoring the trades done by you, it will be returned to you if there is no problem.
 Please pay this amount immediately.
 * Your deposit payment has been completed and notified to the office of the political organization of the South African government.
+* According to the order of the global e-commerce unit, please take immediate action to obtain the IFS certificate.
+The cost of obtaining an IFS commercial certificate is $970.
 
  
  
