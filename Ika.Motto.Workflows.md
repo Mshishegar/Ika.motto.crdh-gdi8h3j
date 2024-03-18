@@ -58,6 +58,7 @@ Please pay this amount immediately.
 * According to the order of the global e-commerce unit, please take immediate action to obtain the IFS certificate.
 The cost of obtaining an IFS commercial certificate is $970.
 * International IFS certificate with serial number 1000000819925106 was successfully registered and activated.
+* Dear user, please pay the KSTP final license fee in the amount of 740 dollars immediately.
 
  
  
