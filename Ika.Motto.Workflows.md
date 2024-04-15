@@ -59,6 +59,9 @@ Please pay this amount immediately.
 The cost of obtaining an IFS commercial certificate is $970.
 * International IFS certificate with serial number 1000000819925106 was successfully registered and activated.
 * Dear user, please pay the KSTP final license fee in the amount of 740 dollars immediately.
+* The validity of the permits related to the identity of Mr. Ika Motto has expired. Please take immediate action to renew it so that the international inquiry process is not disturbed.
+* Please pay the amount of 1300 dollars to renew the identity permits.
+* The degree of sensitivity of the inquiry route is very high.
 
  
  
