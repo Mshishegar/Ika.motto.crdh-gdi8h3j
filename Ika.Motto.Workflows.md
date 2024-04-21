@@ -62,6 +62,7 @@ The cost of obtaining an IFS commercial certificate is $970.
 * The validity of the permits related to the identity of Mr. Ika Motto has expired. Please take immediate action to renew it so that the international inquiry process is not disturbed.
 * Please pay the amount of 1300 dollars to renew the identity permits.
 * The degree of sensitivity of the inquiry route is very high.
+* Please take immediate action to renew the license number 1006107 in the amount of 600 dollars.
 
  
  
