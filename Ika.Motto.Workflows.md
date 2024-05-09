@@ -63,6 +63,9 @@ The cost of obtaining an IFS commercial certificate is $970.
 * Please pay the amount of 1300 dollars to renew the identity permits.
 * The degree of sensitivity of the inquiry route is very high.
 * Please take immediate action to renew the license number 1006107 in the amount of 600 dollars.
+* Dear user, since there has been a long delay in receiving inquiries from UN member countries. The Head of Organizational Inquiry Affairs of the Nations has proposed the formation of a 7-person jury to decide on the remaining countries so that this process can be completed as soon as possible.
+Please pay the legal fee of 2600 dollars immediately.
+Your exclusive international legal code is 20240177806152117.
 
  
  
