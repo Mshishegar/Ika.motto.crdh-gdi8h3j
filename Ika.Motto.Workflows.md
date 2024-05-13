@@ -67,6 +67,7 @@ The cost of obtaining an IFS commercial certificate is $970.
 Please pay the legal fee of 2600 dollars immediately.
 Your exclusive international legal code is 20240177806152117.
 * Your case has been sent to the legal and international review unit.
+* Please pay the amount of 490 dollars immediately to pay the administrative fees.
 
  
  
