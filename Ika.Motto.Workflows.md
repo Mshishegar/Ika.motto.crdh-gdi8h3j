@@ -74,6 +74,7 @@ Your exclusive international legal code is 20240177806152117.
 * Warning level one , Speed up your payment operations.
 * Warning level two , Acceleration of payment operations.
 * Warning level three, after the emergency time, your case will be rejected.
+* Your case was referred to the 7-member jury for review and announcement of the final decision, and it will be announced after the decision is issued.
 
  
  
