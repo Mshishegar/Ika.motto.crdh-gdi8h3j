@@ -68,6 +68,9 @@ Please pay the legal fee of 2600 dollars immediately.
 Your exclusive international legal code is 20240177806152117.
 * Your case has been sent to the legal and international review unit.
 * Please pay the amount of 490 dollars immediately to pay the administrative fees.
+* A 7-person jury was appointed.
+* The amount of your current assets is 685,439,400 dollars, which will be reviewed by a 7-member board and the final vote will be issued.
+* Please take immediate action to pay the arbitration fee in the amount of $10,000.
 
  
  
