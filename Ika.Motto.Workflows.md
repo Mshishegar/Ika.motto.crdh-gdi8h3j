@@ -72,6 +72,7 @@ Your exclusive international legal code is 20240177806152117.
 * The amount of your current assets is 685,439,400 dollars, which will be reviewed by a 7-member board and the final vote will be issued.
 * Please take immediate action to pay the arbitration fee in the amount of $10,000.
 * Warning level one , Speed up your payment operations.
+* Warning level two , Acceleration of payment operations
 
  
  
