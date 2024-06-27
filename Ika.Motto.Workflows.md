@@ -103,4 +103,6 @@ In case of non-fulfillment of the obligation, this action is recognized as a vio
   * The request letter for expediting the issuance of the payment order was re-sent to the Director General of the General Department of the International Electronic Commerce Court.
   * The official letter requesting to obtain an order with the legal number 202471034102 was sent to the Director General of the General Department of the International Electronic Commerce Court. Waiting for the order to be issued, please be patient.
   * Official correspondence has been done. Wait for the result.
+  * Regarding the case referred to the 7-person jury panel, please pay the amount of $650 immediately for the payment of the registration fee of the ruling order number and order.
+  * Please note that this fee has nothing to do with Blockchain and GITHub and it was issued directly according to the order of the Director of Persons Affairs at the United Nations.
 # 
