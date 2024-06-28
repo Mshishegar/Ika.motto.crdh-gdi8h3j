@@ -75,36 +75,11 @@ Your exclusive international legal code is 20240177806152117.
 * Warning level two , Acceleration of payment operations.
 * Warning level three, after the emergency time, your case will be rejected.
 * Your case was referred to the 7-member jury for review and announcement of the final decision, and it will be announced after the decision is issued.
-
- 
- 
-# 
-# 
-2- Tether Wallets :
-
-Address :
-
-main 1 :
-TVB1cdGRYpimRPpPMPbjMaR7LGDxGVtUXg
-
-Last Situation :
-
-* Your case with serial number 20240123160128 has been sent to the desk of the compensation manager to review and then issue an order.
-* * A precautionary time was set for the blockchain to fulfill the commitment.
-In case of non-fulfillment of the obligation, this action is recognized as a violation and the judge will issue an order according to the international trade laws.
-* * High sensitivity conditions were applied to the project.
-  * The file has been closed and sent to the guarantee unit for payment.
-  * The documents of the case were reviewed by the judge. This time limit was issued by the judicial operator. The guarantee unit was given an official notice to fulfill the obligation.
-  * Due to non-fulfillment of the obligation by the guarantee unit, the amount of damage was calculated according to the law and the total amount of your demand was determined as 112,000 Tether digital currency.
-  * By order of the judge, this amount was blocked in the guarantee fund.
-  * Awaiting the issuance of the payment order by the General Directorate of the International Electronic Commerce Court.
-  * Tether currencies have been prepared.
-  * Additional information on the actions taken was sent to the Director General of the General Department of the International Electronic Commerce Court to obtain a payment order.
-  * The request letter for expediting the issuance of the payment order was re-sent to the Director General of the General Department of the International Electronic Commerce Court.
-  * The official letter requesting to obtain an order with the legal number 202471034102 was sent to the Director General of the General Department of the International Electronic Commerce Court. Waiting for the order to be issued, please be patient.
-  * Official correspondence has been done. Wait for the result.
-  * Regarding the case referred to the 7-person jury panel, please pay the amount of $650 immediately for the payment of the registration fee of the ruling order number and order.
-  * Please note that this fee has nothing to do with Blockchain and GITHub and it was issued directly according to the order of the Director of Persons Affairs at the United Nations.
-  * The order registration fee has been successfully paid.
-  * Your file has been sent to the United Nations Persons Unit to register the order.
+* Regarding the case referred to the 7-person jury panel, please pay the amount of $650 immediately for the payment of the registration fee of the ruling order number and order.
+* Please note that this fee has nothing to do with Blockchain and GITHub and it was issued directly according to the order of the Director of Persons Affairs at the United Nations.
+* The order registration fee has been successfully paid.
+* Your file has been sent to the United Nations Persons Unit to register the order.
+* The final meeting related to the issuance of the approval order, the release of 5 digital currency-Bitcoin wallets will be held by 7-member jury and the vote will be issued and recorded.
+* Legal procedures and decision-making have been successfully completed and will be registered and notified after the final meeting by the jury.
+* All stages of review and decision-making regarding digital currencies related to you have been carried out under the strict supervision of the Secretary of the United Nations Council.
 # 
